@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyDolphinConfigurator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5457e1f50d1477f35f700f371d102a56e057d0b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875fa9dbfc57da498c1229916bcde0cd8c7198ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyDolphinConfigurator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyDolphinConfigurator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

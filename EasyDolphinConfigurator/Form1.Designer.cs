@@ -39,6 +39,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "Form1";
+            ShowIcon = false;
             Text = "Easy Dolphin Configurator";
             Load += Form1_Load;
             ResumeLayout(false);
